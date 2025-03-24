@@ -8,7 +8,7 @@ class SeriesController extends Controller
 {
     public function index()
     {
-        $series = [
+        $series= [
             'Punisher',
             'Zelda',
             'Invencível',
